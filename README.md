@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yousra</h1>
 <h3 align="center">🌟 "Driven Student Programmer Building a Bright Future with Code" 🚀💻reativity" 🌈✨</h3>
 
+<p></p>
+
+<!-- ![school-of-athens](https://user-images.githubusercontent.com/69278312/210283692-ee10d5d7-34b4-4fef-9017-6d2ffa4503df.jpg) -->
+![contributions](https://user-images.githubusercontent.com/69278312/213488373-97e791d5-6faf-401f-b568-bb7cef990226.svg)
+<!-- ![yousrachakib's 42 stats](https://badge.mediaplus.ma/levi/yousrachakib) -->
+[![committers.top badge](https://user-badge.committers.top/morocco_private/yousrachakib.svg)](https://user-badge.committers.top/morocco_private/yousrachakib)
+<p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousrachakib&label=Profile%20views&color=0e75b6&style=flat" alt="yousrachakib" /> </p>
 
 - 🌱 I’m currently learning **and expanding my programming skills in C and C++, while exploring the realms of HTML and CSS. Ready to code my way to the future**
