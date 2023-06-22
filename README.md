@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousra</h1>
-<h3 align="center">🌟 "Driven Student Programmer Building a Bright Future with Code" 🚀💻reativity" 🌈✨</h3>
+<h3 align="center">🌟 "Driven Student Programmer Building a Bright Future with Code" 🚀💻creativity" 🌈✨</h3>
 
 <p></p>
 
