@@ -8,6 +8,9 @@
 <!-- ![yousrachakib's 42 stats](https://badge.mediaplus.ma/levi/yousrachakib) -->
 [![committers.top badge](https://user-badge.committers.top/morocco_private/yousrachakib.svg)](https://user-badge.committers.top/morocco_private/yousrachakib)
 <p></p>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clj7gr29x001108mpshu61ylf/stats?cursusId=21&coalitionId=75" alt="yochakib's 42 stats" /></a>
+
+<p></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousrachakib&label=Profile%20views&color=0e75b6&style=flat" alt="yousrachakib" /> </p>
 
 - 🌱 I’m currently learning **and expanding my programming skills in C and C++, while exploring the realms of HTML and CSS. Ready to code my way to the future**
