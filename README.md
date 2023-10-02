@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousrachakib&label=Profile%20views&color=0e75b6&style=flat" alt="yousrachakib" /> </p>
 
-- 🌱 I’m currently learning **and expanding my programming skills in C and C++, C offers low-level control over hardware and memory, making it efficient for system-level and embedded systems programming. it programs excel in performance due to direct memory and hardware manipulation. C++ extends C by adding object-oriented features for better code organization and reuse. **
+- 🌱 I’m currently learning and expanding my programming skills in C and C++, C offers low-level control over hardware and memory, making it efficient for system-level and embedded systems programming. it programs excel in performance due to direct memory and hardware manipulation. C++ extends C by adding object-oriented features for better code organization and reuse.
 
 - 💬 Ask me about **programming, software development, or any specific questions related to C, C++, HTML, or CSS! I'm here to help and share my knowledge. Let's dive into the world of coding together!**
 
