@@ -31,5 +31,3 @@ I thrive on solving complex problems and building efficient, scalable systems. M
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousrachakib&show_icons=true&locale=en&layout=compact" alt="yousrachakib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousrachakib&show_icons=true&locale=en" alt="yousrachakib" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousrachakib&" alt="yousrachakib" /></p>
