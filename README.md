@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousrachakib&label=Profile%20views&color=0e75b6&style=flat" alt="yousrachakib" /> </p>
 
-- 🌱I'm Yousra Chakib, a passionate developer with expertise in C, C++, system programming, and web development. I graduated from 1337 Coding School, where I honed my skills in backend development, algorithm optimization, and innovative project execution.
+- 🌱 Passionate developer with expertise in C, C++, system programming, and web development. I graduated from 1337 Coding School, where I honed my skills in backend development, algorithm optimization, and innovative project execution.
 I thrive on solving complex problems and building efficient, scalable systems. My projects range from virtualization and containerization with Docker to developing full-stack web applications and 3D games using raycasting. I’m particularly proud of my work on ft_transcendence, a full-stack web app built with Django, PostgreSQL, and React, where I implemented robust security features like JWT , 2FA and user Oauth.
 
 When I’m not coding, I enjoy diving into new technologies, contributing to open-source projects, and collaborating with like-minded developers. Feel free to explore my repositories and reach out if you’d like to connect or collaborate!
