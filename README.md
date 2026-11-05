@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousra</h1>
 
 <p align="center">
-  <em>Driven student programmer building a bright future with code , turning complex problems into elegant solutions </em>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousrachakib&label=Profile%20views&color=0e75b6&style=flat" />
   &nbsp;
   <img src="https://img.shields.io/badge/1337%20Khouribga-Graduate-0e75b6?style=flat" />
